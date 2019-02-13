@@ -1,3 +1,3 @@
 # SpaceShooter-Unity
 
-A fun shooter I made using C# and the Unity game engine. There are executables for Windows/Mac/Linux to try the game out!
+SpaceShooters is a... space shooter video game I made for fun, using the Unity game engine. It's 2D, with terrible graphics and old school arcade style, alien shooter game mechanics. Involved very basic sprite and game object creation, with C# scripts that define and manipulate those game objects.
